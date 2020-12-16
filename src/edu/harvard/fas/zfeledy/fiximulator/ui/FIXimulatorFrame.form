@@ -920,7 +920,7 @@
                 <Component class="javax.swing.JSlider" name="partialsSlider">
                   <Properties>
                     <Property name="majorTickSpacing" type="int" value="10"/>
-                    <Property name="maximum" type="int" value="50"/>
+                    <Property name="maximum" type="int" value="500"/>
                     <Property name="paintLabels" type="boolean" value="true"/>
                     <Property name="paintTicks" type="boolean" value="true"/>
                     <Property name="value" type="int" value="10"/>

@@ -642,7 +642,7 @@ public class FIXimulatorFrame extends javax.swing.JFrame {
         });
 
         partialsSlider.setMajorTickSpacing(10);
-        partialsSlider.setMaximum(50);
+        partialsSlider.setMaximum(500);
         partialsSlider.setPaintLabels(true);
         partialsSlider.setPaintTicks(true);
         partialsSlider.setValue(10);
